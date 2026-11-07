@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -51,7 +52,7 @@
   <script type="application/ld+json">
   {
     "@context":"https://schema.org","@type":"Person",
-    "name":"Rakhin Maurengga","url":"https://rakh1n.github.io/rakhin-maurengga/",
+    "name":"Rakhin Maurengga","url":"https://GANTI-DENGAN-DOMAIN-ANDA/",
     "description":"Lulusan D3 Teknik Informatika Politeknik Negeri Pontianak dengan minat pada teknologi, fotografi, videografi, dan seni musik.",
     "email":"mailto:maurenggarakhin@gmail.com",
     "jobTitle":"Tenaga Pendukung Multimedia",
@@ -81,7 +82,7 @@
     </div>
     <div class="portrait">
       <!-- Untuk memasang foto, letakkan foto-profil.jpg di folder ini dan ganti RM dengan tag img (lihat PETUNJUK.txt). -->
-      <div class="initials" aria-label="Inisial R M">RM</div>
+      <img src="foto-profil.png" alt="Foto Rakhin Maurengga">
     </div>
   </div>
 

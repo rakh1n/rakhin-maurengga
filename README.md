@@ -51,7 +51,7 @@
   <script type="application/ld+json">
   {
     "@context":"https://schema.org","@type":"Person",
-    "name":"Rakhin Maurengga","url":"https://GANTI-DENGAN-DOMAIN-ANDA/",
+    "name":"Rakhin Maurengga","url":"https://rakh1n.github.io/rakhin-maurengga/",
     "description":"Lulusan D3 Teknik Informatika Politeknik Negeri Pontianak dengan minat pada teknologi, fotografi, videografi, dan seni musik.",
     "email":"mailto:maurenggarakhin@gmail.com",
     "jobTitle":"Tenaga Pendukung Multimedia",

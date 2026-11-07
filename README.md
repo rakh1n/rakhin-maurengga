@@ -12,7 +12,7 @@
   <meta property="og:type" content="profile">
   <meta property="og:title" content="Rakhin Maurengga | Biografi & Portofolio">
   <meta property="og:description" content="Kenali perjalanan, pengalaman, minat, dan karya Rakhin Maurengga.">
-  <meta property="og:image" content="https://GANTI-DENGAN-DOMAIN-ANDA/foto-profil.jpg">
+  <meta property="og:image" content="https://rakh1n.github.io/rakhin-maurengga/foto-profil.jpg">
   <style>
     :root{--bg:#101010;--surface:#191919;--surface2:#222;--text:#f4f4f4;--muted:#bdbdbd;--accent:#fff;--line:#393939;--max:1120px;--base:16px}
     *{box-sizing:border-box}html{scroll-behavior:smooth;font-size:var(--base)}body{margin:0;background:radial-gradient(ellipse at 82% 0%,#303030 0,transparent 38%),var(--bg);color:var(--text);font-family:Arial,Helvetica,sans-serif;line-height:1.7}
